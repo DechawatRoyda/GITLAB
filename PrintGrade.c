@@ -16,6 +16,7 @@ void main()
   scanf("%d", &SearchID); 
   while (SearchID)
   {
+      int asdfhjkl = 0;
       found_index = -1; 
       for (i = 0; i<N && found_index == -1; i++)
 
